@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    background-image: url("https://www.midwestcommunity.org/wp-content/uploads/2018/02/Groceries-ThinkstockPhotos-836782690.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    text-shadow: 2px 2px 5px black;
+    color: white;
+}
+
+#submitButton {
+    padding:7px;
+    background-color:green;
+    border-color:black;
+}
